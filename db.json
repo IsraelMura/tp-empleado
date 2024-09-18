@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "JuanPérez ",
+      "email": "jperez@empleado.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": "2",
+      "name": "María García",
+      "email": "mgarcia@empleado.com",
+      "phone": "555-5678"
+    },
+    {
+      "id": "3",
+      "name": "Luis Ramírez",
+      "email": "lramirez@empleado.com",
+      "phone": "555-8765"
+    },
+    {
+      "id": "4",
+      "name": "Ana Fernández",
+      "email": "afernandez@empleado.com",
+      "phone": "555-4321"
+    },
+    {
+      "id": "5",
+      "name": "Carlos Martínez",
+      "email": "cmartinez@empleado.com",
+      "phone": "555-7890"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@empleados.com",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "username": "isra",
+      "email": "israel@empleados.com",
+      "password": "isra123"
+    }
+  ]
+}

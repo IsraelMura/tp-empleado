@@ -1,0 +1,44 @@
+.section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: inherit;
+}
+
+.title {
+    color: var(--terciary-color);
+    font-size: 18pt;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.table {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+  }
+  
+  .table th, 
+  .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid var(--secondary-color);
+  }
+  
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid var(--secondary-color);
+    background-color: #25303b;
+    color: var(--secondary-color);
+    text-align: left;
+  }
+  

@@ -1,0 +1,9 @@
+.title {
+    color: var(--terciary-color);
+    font-size: 18pt;
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 55px;
+}

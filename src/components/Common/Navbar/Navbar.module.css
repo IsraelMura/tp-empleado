@@ -1,0 +1,30 @@
+a {
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: 1px solid var(--secondary-color);
+    color: var(--terciary-color);
+    text-decoration: none;
+}
+
+a:hover {
+    border: 1px solid var(--terciary-color);
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.username {
+    color: var(--terciary-color);
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
